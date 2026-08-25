@@ -12,7 +12,7 @@ I maintain two scaffolds, a Flue agent harness over TanStack, Hono, Cloudflare, 
 
 ## Projects
 
-I’m currently consulting with Sleeve.fm and Journai in a GTM and product capacity while building my own software factory as Postbyte LLC. Locally, I work with graduate students at Michigan State University’s College of Music, to record, release and promote their repertoire.
+I’m currently consulting with Sleeve.fm and Journai in a GTM and product capacity while building my own software factory as Postbyte LLC. Locally, I work with chamber music graduate students at Michigan State University’s College of Music, to record, release and promote their repertoire.
 
 Postbyte builds:
 - [Wondo: Interactive stories worth replaying](https://wondo.app/) `Beta`
